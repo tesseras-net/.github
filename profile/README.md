@@ -1,4 +1,5 @@
-```
+<pre styles="line-height: 1; letter-spacing: -1px;">
+
        ████████╗███████╗███████╗███████╗███████╗██████╗  █████╗ ███████╗
        ╚══██╔══╝██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
           ██║   █████╗  ███████╗███████╗█████╗  ██████╔╝███████║███████╗
@@ -9,7 +10,7 @@
             ◆───◇───◆     The Eternal Wall of Humanity    ◆───◇───◆
     
          A shared, digital monument where memories are carved into time.
-```
+</pre>
 
 ## What is Tesseras [WIP]?
 
