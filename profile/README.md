@@ -1,32 +1,22 @@
-<pre style="line-height: 1; letter-spacing: -1px;">
+# Tesseras
 
-       ████████╗███████╗███████╗███████╗███████╗██████╗  █████╗ ███████╗
-       ╚══██╔══╝██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
-          ██║   █████╗  ███████╗███████╗█████╗  ██████╔╝███████║███████╗
-          ██║   ██╔══╝  ╚════██║╚════██║██╔══╝  ██╔══██╗██╔══██║╚════██║
-          ██║   ███████╗███████║███████║███████╗██║  ██║██║  ██║███████║
-          ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-    
-            ◆───◇───◆     The Eternal Wall of Humanity    ◆───◇───◆
-    
-         A shared, digital monument where memories are carved into time.
-</pre>
+P2P network for preserving human memories across millennia.
 
-## What is Tesseras [WIP]?
+## About
 
-Tesseras is designed as a temporal data preservation network - a
-decentralized communication infrastructure that enables long-term data
-persistence across generations while maintaining privacy, security, and
-performance. Think of it as creating digital cave paintings that can
-survive millennia.
+Every year, platforms shut down, companies fail, and file formats become unreadable. Your memories deserve better than depending on any single company, format, or infrastructure.
 
-> "Just as prehistoric people carved stories into stone to outlive them,
-> Tesseras empowers modern humanity to do the same in pixels and
-> photons."
+Tesseras lets each person create a *tessera* — a self-contained time capsule of photos, audio, video, and text — that survives independently. Tesseras are replicated across a peer-to-peer network built on mutual aid, protected by erasure coding, and packaged in a self-describing format designed to be understood centuries from now, without any special software.
+
+## Links
+
+- [Website](https://tesseras.net)
+- [Documentation](https://tesseras.net/book/en/)
+- [Source code](https://git.sr.ht/~ijanc/tesseras) (primary)
+- [GitHub mirror](https://github.com/ijanc/tesseras)
+- [Ticket tracker](https://todo.sr.ht/~ijanc/tesseras)
+- [Mailing lists](https://tesseras.net/subscriptions/)
 
 ## License
 
-This project is licensed under the ISC license ([LICENSE](LICENSE) or
-http://opensource.org/licenses/ISC)
-
-For more information [https://tesseras.net](https://tesseras.net)
+ISC — see [LICENSE](LICENSE).
